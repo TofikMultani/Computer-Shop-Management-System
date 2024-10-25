@@ -1,0 +1,1 @@
+﻿Insert into Users Values ('Tofik','tmultani343@rku.ac.in','123456789');
